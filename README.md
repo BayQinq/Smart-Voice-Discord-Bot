@@ -49,6 +49,9 @@ const TOKEN = 'TOKEN_CODE'; // Replace 'TOKEN_CODE' with your bot token.
 
 - Start the bot to enable its functionality in your server.
 
+  ```base
+  When a user joins a voice channel and types /setchannel, that voice channel becomes a waiting room
+  ```
 ---
 
 ### 📦 Usage
