@@ -42,7 +42,8 @@
 
  Open the `index.js` file and add your bot token to **line 10**:  
 ```base 
-const TOKEN = 'TOKEN_CODE'; // Replace 'TOKEN_CODE' with your bot token. ````
+const TOKEN = 'TOKEN_CODE'; // Replace 'TOKEN_CODE' with your bot token.
+```
 
 #### 5. Run the Bot:
 
